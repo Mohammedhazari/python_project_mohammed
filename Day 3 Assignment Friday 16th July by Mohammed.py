@@ -6,7 +6,9 @@ subject_1 = input("Subject 1: ")
 subject_2 = input("Subject 2: ")
 subject_3 = input("Subject 3: ")
 subject_4 = input("Subject 4: ")
-subject_5 = input("Subject 5: ") 
+subject_5 = input("Subject 5: ")
+# subject_6 = input("Subject 6: ")
+
 
 print("\nEnter marks for semester 1: ") 
 
